@@ -7,6 +7,6 @@
  [![DiscordBots][dbl]][dblLink] [![Support Guild][discord]][discordLink]
 
 # Spam-Bot
-a nice spam bot.....
+a nice spam bot......
 # Visit the Official Website and start inviting
 https://sites.google.com/view/thespambottheofficialweb/home
