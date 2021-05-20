@@ -10,3 +10,12 @@
 a nice spam bot......
 # Visit the Official Website and start inviting
 https://sites.google.com/view/thespambottheofficialweb/home
+
+## WHAT YOU CAN'T DO
+
+1. NO FORKING
+2. NO DOWNLOADING
+3. NO COPYPASTE
+ 
+ If you want to do the following...
+ add a pull request and wait for approval
